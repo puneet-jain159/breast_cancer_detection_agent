@@ -1,10 +1,3 @@
----
-tags:
-- monai
-- medical
-library_name: monai
-license: apache-2.0
----
 # Description
 A pre-trained model for breast-density classification.
 
